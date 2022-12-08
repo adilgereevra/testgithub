@@ -1,6 +1,6 @@
-print('hello git')
+print('hello Raim')
 
-print('hello git')
+print('hello Aibek')
 #hello
 print('hello git')
 
