@@ -1,7 +1,7 @@
-print('git')
-print('Raim')
-print('2git')
+print('hello Raim')
 
+print('hello Aibek')
+#hello
 print('hello git')
 
 
